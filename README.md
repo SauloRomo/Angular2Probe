@@ -1,1 +1,1 @@
-# This is a test for Angular with Git Bash
+# This is the Test #02 now in VScode :D
